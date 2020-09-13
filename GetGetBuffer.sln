@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetGetBuffer", "GetGetBuffer.vcxproj", "{4EBA0BD5-EFF4-4B10-862E-145651E2BABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{6A774B5B-B493-45AA-89CD-1B9447A0123E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{6A774B5B-B493-45AA-89CD-1B9447A0123E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,7 +28,9 @@ Global
 		{6A774B5B-B493-45AA-89CD-1B9447A0123E}.Debug|x86.ActiveCfg = Debug|x86
 		{6A774B5B-B493-45AA-89CD-1B9447A0123E}.Debug|x86.Build.0 = Debug|x86
 		{6A774B5B-B493-45AA-89CD-1B9447A0123E}.Release|x64.ActiveCfg = Release|x64
+		{6A774B5B-B493-45AA-89CD-1B9447A0123E}.Release|x64.Build.0 = Release|x64
 		{6A774B5B-B493-45AA-89CD-1B9447A0123E}.Release|x86.ActiveCfg = Release|x86
+		{6A774B5B-B493-45AA-89CD-1B9447A0123E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
